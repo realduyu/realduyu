@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Electron, English
 - 💬 Ask me about me
-- 📫 How to reach me: realduyu.github.io
+- 📫 How to reach me: <realduyu.github.io>
 <!--
 **realduyu/realduyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
