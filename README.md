@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Electron, English
-- 💬 Ask me about me
+- 🌱 I’m currently learning PHP, Vuew, Electron, English
 - 📫 How to reach me: [realduyu.github.io](https://realduyu.github.io)
 <!--
 **realduyu/realduyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
