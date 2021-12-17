@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning PHP, Vue, Electron, English
+- 🌱 I’m currently learning PHP, Vue, Golang, English
 - 📫 How to reach me: [realduyu.github.io](https://realduyu.github.io)
 - 🔭 I’m currently working on Shanghai
 <!--
